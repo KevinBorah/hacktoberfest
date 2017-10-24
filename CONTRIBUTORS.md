@@ -1623,3 +1623,8 @@ Noida
 #### Name: [Omkar Halikar](https://github.com/Omkar-Halikar)
 - Place: Pune,India
 - Github: [Omkar Halikar] (https://github.com/Omkar-Halikar)
+
+#### Name: [Kevin Borah](https://github.com/KevinBorah)
+- Place: Woodstock, Georgia, USA 
+- Bio: Front End Web Development Student
+- GitHub: [Kevin Borah](https://github.com/KevinBorah)
